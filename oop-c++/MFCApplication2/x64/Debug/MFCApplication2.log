@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Bicycle.cpp
+  Electric.cpp
+  Gas.cpp
+  MFCApplication2.cpp
+  MFCApplication2Dlg.cpp
+C:\Users\שמעון\Desktop\פרוייקטים\c++\MFCApplication2\MFCApplication2Dlg.cpp(162,16): warning C4101: 'pos1': unreferenced local variable
+  Private.cpp
+  rent.cpp
+  Scooter.cpp
+  SUV.cpp
+  Vehicle.cpp
+  Generating Code...
+C:\Users\שמעון\Desktop\פרוייקטים\c++\MFCApplication2\MFCApplication2Dlg.cpp(173): warning C4715: 'CMFCApplication2Dlg::get_rent_price': not all control paths return a value
+  MFCApplication2.vcxproj -> C:\Users\שמעון\Desktop\פרוייקטים\c++\x64\Debug\MFCApplication2.exe
